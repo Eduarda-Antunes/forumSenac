@@ -1,2 +1,2 @@
 # forumSenac
-Repositório do projeto do segundo trimestre. 
+Repositório referente ao Projeto do Segundo Trimestre.
